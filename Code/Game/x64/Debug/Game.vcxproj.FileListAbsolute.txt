@@ -1,0 +1,33 @@
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.vcxproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.Mainform.resources
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.MyForm.resources
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.vcxproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.MyForm1.resources
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.Mainform.aa.resources
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.Credits.resources
+C:\Users\Hp\source\repos\Game\Game\x64\Debug\Game.MyForm2.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.vcxproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.Credits.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.Mainform.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.MyForm.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.MyForm1.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.MyForm2.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.Mainform.aa.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.vcxproj.GenerateResource.cache
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.MyForm31.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.SecondForm.resources
+C:\Users\Hp\source\repos\21L-5416_21L-7544\Game\x64\Debug\Game.HighScore.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.vcxproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.Credits.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.HighScore.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.Mainform.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.MyForm.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.MyForm1.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.MyForm2.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.MyForm31.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.SecondForm.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.Mainform.aa.resources
+C:\Users\Hp\Desktop\AHMAD'S IMPORTANT DOCUMENT\PF\PROJECT\21L-5416_21L-7544\Game\x64\Debug\Game.vcxproj.GenerateResource.cache
